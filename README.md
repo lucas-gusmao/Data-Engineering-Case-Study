@@ -164,7 +164,8 @@ SUMMARY OF RECOMMENDATIONS
 | Primary Category | Category A | Dominant in top cities |
 | Secondary Category | Category B | Strong in secondary cities |
 | Seasonal Strategy | Invest Oct-Dec | Peak sales period (+190%) |
-| Operating Hours | 9:00 AM - 9:00 PM | Optimal revenue per hour |
+| Operating Hours (Max Revenue) | 8:00 AM - 10:00 PM | 14 hours, 82.6% of revenue |
+| Operating Hours (Efficient) | 10:00 AM - 8:00 PM | 10 hours, 71.8% of revenue |
 | Installments | Accept | $2.05B additional profit |
 
 ================================================================================
