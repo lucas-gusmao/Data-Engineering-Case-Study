@@ -1,0 +1,3 @@
+Installment_Type,Transactions,Total_Revenue,Avg_Ticket,Gross_Profit,Default_Loss,Net_Profit,Profit_Margin_%
+Without Installments,"6,814,614","136,979,837,070","20,101","34,244,959,268",0,"34,244,959,268",25.0
+With Installments,"459,753","9,248,234,549","20,116","2,312,058,637","264,730,714","2,047,327,923",22.1
